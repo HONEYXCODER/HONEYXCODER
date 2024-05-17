@@ -1,7 +1,7 @@
-<h1 align="center">Hᴇʏ Tʜᴇʀᴇ, I Aᴍ Kɪʀᴀ</h1>
+<h1 align="center">Hᴇʏ Tʜᴇʀᴇ, I Aᴍ Hᴏɴᴇʏ</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Enthusiastic+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+For+Team+X+Network</>%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=𝒉𝒆𝒚+𝒊+𝒂𝒎+𝒚𝒐𝒖𝒓+𝒉𝒐𝒏𝒆𝒚+India%E2%9C%8C%EF%B8%8F;𝒊𝒎+𝒏𝒐𝒐𝒃+𝒄𝒐𝒅𝒆𝒓+😶k</>%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
   
